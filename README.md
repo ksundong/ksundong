@@ -6,11 +6,28 @@
 언어와 프레임워크에 구애받지 않는 개발자가 되는 것이 목표입니다. 언어의 특징과 철학에 맞는 코드를 작성하기 위해 노력합니다.
 
 - 🌱 I’m currently learning `Python3`, `Coding Interview`
-- 🤔 I'm interested in `Fin-tech`, `OOP`, `OOP Framework(Spring, JPA)`
+- 🤔 I'm interested in `Fin-tech`, `OOP`, `OOP Framework(Spring, JPA)`, `CI/CD`
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  
 ![github stats](https://github-readme-stats.vercel.app/api?username=ksundong&show_icons=true)
+
+### 2020
+
+- CodeSquad 2020 Backend Masters Course - Certificated
+- Programmers Python Algorithm Study(with Code Review)
+- Toby's Spring Vol.1 - Done
+
+#### TODO
+
+- 파이썬 알고리즘 인터뷰 책 리뷰
+- ~~취업~~
+- JavaScript: The Definitive Guide
+- Web Scalability for Startup Engineers
+- HTTP 완벽 가이드
+- Effective Java 3/E
+- 오브젝트(조영호)
+
 <!--
 **ksundong/ksundong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
