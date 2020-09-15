@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning `Python3`, `Coding Interview`
 - 🤔 I'm interested in `Fin-tech`, `OOP`, `OOP Framework(Spring, JPA)`, `CI/CD`
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  
-![github stats](https://github-readme-stats.vercel.app/api?username=ksundong&show_icons=true)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  -->
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=ksundong&show_icons=true) -->
 
 ### 2020
 
