@@ -23,7 +23,8 @@
 - CodeSquad 2020 Backend Masters Course - Certificated
 - Programmers Python Algorithm Study(with Code Review) - Done
 - Toby's Spring Vol.1 - Done
-- 파이썬 알고리즘 인터뷰 책 리뷰 - Done
+- 파이썬 알고리즘 인터뷰 책 리뷰 - [Done](https://velog.io/@dion/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%A6%AC%EB%B7%B0)
+- 생활코딩 머신러닝 야학 - [Certificated](https://cert.yah.ac/?d=2020.10.1&n=%EA%B9%80%EC%84%A0%EB%8F%99&t=2&a=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%95%BC%ED%95%99)
 
 #### Doing
 
