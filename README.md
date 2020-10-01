@@ -28,7 +28,7 @@
 
 #### Doing
 
-- [CodeSquad Java Data Structure Study](https://github.com/Data-Structure-Study/java-datastructure)
+- [CodeSquad Java Data Structure Study](https://github.com/Data-Structure-Study/java-datastructure) - Leader
 
 <!--
 #### TODO
