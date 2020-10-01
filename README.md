@@ -14,7 +14,7 @@
 ### Skill
 
 - Language: `Java`, `JavaScript`, `Python3`
-- Backend: `Spring`, `Web Security`, `RESOURCEful API`
+- Backend: `Spring`, `Web Security`, [`RESOURCEful API`](https://medium.com/@trevorhreed/you-re-api-isn-t-restful-and-that-s-good-b2662079cf0e)
 - DevOps: `AWS`, `CI/CD`, `CI/CD Tools`
 - Database: `MySQL`, `MariaDB`
 
