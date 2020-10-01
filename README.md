@@ -5,7 +5,7 @@
 
 언어와 프레임워크에 구애받지 않는 개발자가 되는 것이 목표입니다. 언어의 특징과 철학에 맞는 코드를 작성하기 위해 노력합니다.
 
-- 🌱 I’m currently learning `Python3`, `Coding Interview`
+- 🌱 I’m currently learning `Coding Interview`
 - 🤔 I'm interested in `Fin-tech`, `OOP`, `OOP Framework(Spring, JPA)`, `CI/CD`
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  -->
@@ -14,12 +14,12 @@
 ### 2020
 
 - CodeSquad 2020 Backend Masters Course - Certificated
-- Programmers Python Algorithm Study(with Code Review) - Doing
+- Programmers Python Algorithm Study(with Code Review) - Done
 - Toby's Spring Vol.1 - Done
+- 파이썬 알고리즘 인터뷰 책 리뷰 - Done
 
 #### TODO
 
-- 파이썬 알고리즘 인터뷰 책 리뷰
 - ~~취업~~
 - JavaScript: The Definitive Guide
 - Web Scalability for Startup Engineers
