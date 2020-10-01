@@ -11,6 +11,13 @@
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=ksundong&show_icons=true) -->
 
+### Skill
+
+- Language: `Java`, `JavaScript`, `Python3`
+- Backend: `Spring`, `Web Security`, `RESOURCEful API`
+- DevOps: `AWS`, `CI/CD`, `CI/CD Tools`
+- Database: `MySQL`, `MariaDB`
+
 ### 2020
 
 - CodeSquad 2020 Backend Masters Course - Certificated
@@ -18,6 +25,11 @@
 - Toby's Spring Vol.1 - Done
 - 파이썬 알고리즘 인터뷰 책 리뷰 - Done
 
+#### Doing
+
+- [CodeSquad Java Data Structure Study](https://github.com/Data-Structure-Study/java-datastructure)
+
+<!--
 #### TODO
 
 - ~~취업~~
@@ -27,7 +39,7 @@
 - Effective Java 3/E
 - 오브젝트(조영호)
 
-<!--
+
 **ksundong/ksundong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
