@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning `Ruby On Rails`, `gRPC and Thrift`, `Spring Boot Dockerizing`
 - 🤔 I'm interested in `Fin-tech`, `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`, `Machine Learning`
+- 😄 Pronouns: Dion bot, D조교
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=ksundong&show_icons=true) -->
@@ -25,12 +26,11 @@
 - Toby's Spring Vol.1 - Done
 - 파이썬 알고리즘 인터뷰 책 리뷰 - [Done](https://velog.io/@dion/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%A6%AC%EB%B7%B0)
 - 생활코딩 머신러닝 야학 - [Certificated](https://cert.yah.ac/?d=2020.10.1&n=%EA%B9%80%EC%84%A0%EB%8F%99&t=2&a=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%95%BC%ED%95%99)
-
-#### Doing
-
 - [CodeSquad Java Data Structure Study](https://github.com/Data-Structure-Study/java-datastructure) - Leader
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 <!--
 #### TODO
@@ -52,6 +52,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: Dion bot, D조교
 - ⚡ Fun fact: ...
 -->
