@@ -15,10 +15,10 @@
 
 ### Skill
 
-- Language: `Java`, `JavaScript`, `Python3`
-- Backend: `Spring`, `Web Security`, [`RESOURCEful API`](https://medium.com/@trevorhreed/you-re-api-isn-t-restful-and-that-s-good-b2662079cf0e)
-- DevOps: `AWS`, `CI/CD`, `CI/CD Tools`
-- Database: `MySQL`, `MariaDB`
+- Language: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=Java&logoColor=white), ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E), ![Python3](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+- Backend: ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white), `Web Security`, [`RESOURCEful API`](https://medium.com/@trevorhreed/you-re-api-isn-t-restful-and-that-s-good-b2662079cf0e)
+- DevOps: ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white), ![Github Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=flat&logo=github%20actions&logoColor=white), ![Jenkins](https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=flat&logo=jenkins&logoColor=white)
+- Database: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white), `MariaDB`
 
 ### 2020
 
