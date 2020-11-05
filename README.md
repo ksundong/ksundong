@@ -20,6 +20,14 @@
 - DevOps: ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white), ![Github Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat&logo=github%20actions&logoColor=white), ![Jenkins](https://img.shields.io/badge/Jenkins%20-%232C5263.svg?&style=flat&logo=jenkins&logoColor=white)
 - Database: ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white), ![MariaDB](https://img.shields.io/badge/-MariaDB-black)
 
+### Tools
+
+- IntelliJ IDEA(2years)
+- Git(2years)
+- VSCode(1year)
+- XCode(Less than 1year)
+- Slack(Less tahn 1year)
+
 ### 2020
 
 - CodeSquad 2020 Backend Masters Course - Certificated
