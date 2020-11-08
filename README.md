@@ -26,7 +26,7 @@
 - Git(2years)
 - VSCode(1year)
 - XCode(Less than 1year)
-- Slack(Less tahn 1year)
+- Slack(Less than 1year)
 
 ### 2020
 
