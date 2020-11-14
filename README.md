@@ -6,7 +6,7 @@
 언어와 프레임워크에 구애받지 않는 개발자가 되는 것이 목표입니다. 언어의 특징과 철학에 맞는 코드를 작성하기 위해 노력합니다.
 
 - 📫 How to reach me: idion@idion.dev
-- 🌱 I’m currently learning `MSA`, `Docker`, `HTML/CSS`, `Terraform`
+- 🌱 I’m currently learning `MSA`, `Docker`, `HTML/CSS`, `Terraform`, `Spring Cloud`
 - 🤔 I'm interested in `Fin-tech`, `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`, `Machine Learning`
 - 😄 Pronouns: Dion bot, D조교
 
