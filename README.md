@@ -6,7 +6,7 @@
 언어와 프레임워크에 구애받지 않는 개발자가 되는 것이 목표입니다. 언어의 특징과 철학에 맞는 코드를 작성하기 위해 노력합니다.
 
 - 📫 How to reach me: idion@idion.dev
-- 🌱 I’m currently learning `MSA`, `Docker`, `HTML/CSS`, `Terraform`, `Spring Cloud`, `Kotlin`, `DevOps`
+- 🌱 I’m currently learning `MSA`, `Docker`, `HTML/CSS`, `Spring Cloud`, `Kotlin`, `DevOps`
 - 🤔 I'm interested in `Fin-tech`, `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`, `Machine Learning`
 - 😄 Pronouns: Dion bot, D조교
 
@@ -35,6 +35,7 @@
 - 생활코딩 머신러닝 야학 - [Certificated](https://cert.yah.ac/?d=2020.10.1&n=%EA%B9%80%EC%84%A0%EB%8F%99&t=2&a=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%95%BC%ED%95%99)
 - [CodeSquad Java Data Structure Study](https://github.com/Data-Structure-Study/java-datastructure) - Leader
 - [gitignore cli(giig)](https://github.com/ksundong/gitignore-cli-py): python cli gitignore maker(using gitignore.io api)
+- [Iac with Terraform and AWS](https://www.inflearn.com/certificate/84291-325710-1852117)
 
 ### Doing
 
