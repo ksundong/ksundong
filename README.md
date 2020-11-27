@@ -35,7 +35,7 @@
 - 생활코딩 머신러닝 야학 - [Certificated](https://cert.yah.ac/?d=2020.10.1&n=%EA%B9%80%EC%84%A0%EB%8F%99&t=2&a=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%95%BC%ED%95%99)
 - [CodeSquad Java Data Structure Study](https://github.com/Data-Structure-Study/java-datastructure) - Leader
 - [gitignore cli(giig)](https://github.com/ksundong/gitignore-cli-py): python cli gitignore maker(using gitignore.io api)
-- [Iac with Terraform and AWS](https://www.inflearn.com/certificate/84291-325710-1852117)
+- [Iac with Terraform and AWS](https://www.inflearn.com/certificate/84291-325710-1852117) - Certificated
 
 ### Doing
 
