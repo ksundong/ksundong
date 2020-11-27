@@ -36,11 +36,11 @@
 - [CodeSquad Java Data Structure Study](https://github.com/Data-Structure-Study/java-datastructure) - Leader
 - [gitignore cli(giig)](https://github.com/ksundong/gitignore-cli-py): python cli gitignore maker(using gitignore.io api)
 - [IaC with Terraform and AWS](https://www.inflearn.com/certificate/84291-325710-1852117) - Certificated
+- Codesquad Cocoa Java Backend TA(2020. 11. 2 ~ 2020. 11. 27)
 
 ### Doing
 
 - Growth Project(Project Dmart): Focus on `MSA`, `Spring Cloud`, `Spring Data JPA`, `Dockerizing`, `Real World Domain`
-- Codesquad Cocoa Java Backend TA(2020. 11. 2 ~ 2020. 11. 27)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
