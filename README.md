@@ -41,7 +41,7 @@
 ### Doing
 
 - Growth Project(Project Dmart): Focus on `MSA`, `Spring Cloud`, `Spring Data JPA`, `Dockerizing`, `Real World Domain`
-- 레디(Side Project Team): Todo Project
+- BlaDi(Side Project Team): Todo Project
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
