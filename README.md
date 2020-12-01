@@ -5,6 +5,7 @@
 
 언어와 프레임워크에 구애받지 않는 개발자가 되는 것이 목표입니다. 언어의 특징과 철학에 맞는 코드를 작성하기 위해 노력합니다.
 
+- 📝 My Resume: <https://resume.idion.dev/>
 - 📫 How to reach me: idion@idion.dev
 - 🌱 I’m currently learning `MSA`, `Docker`, `HTML/CSS`, `Spring Cloud`, `Kotlin`
 - 🤔 I'm interested in `Fin-tech`, `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`, `Machine Learning`
