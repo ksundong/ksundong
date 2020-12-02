@@ -50,7 +50,6 @@
 
 [Spring Boot Docker Guide(command not working)](https://github.com/spring-guides/gs-spring-boot-docker/pull/89)
 
-![GA](https://notion-ga.ohwhos.now.sh/collect?tid=UA-184480254-3&host=github.com&page=/github)
 
 <!--
 #### TODO
