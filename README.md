@@ -7,8 +7,8 @@
 
 - 📝 My Resume: <https://resume.idion.dev/>
 - 📫 How to reach me: idion@idion.dev
-- 🌱 I’m currently learning `MSA`, `Docker`, `HTML/CSS`, `Spring Cloud`, `Kotlin`
-- 🤔 I'm interested in `Fin-tech`, `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`, `Machine Learning`
+- 🌱 I’m currently learning `Spring`, `JPA`
+- 🤔 I'm interested in `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`
 - 😄 Pronouns: Dion bot, D조교
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  -->
