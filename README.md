@@ -7,7 +7,7 @@
 
 - 📝 My Resume: <https://resume.idion.dev/>
 - 📫 How to reach me: idion@idion.dev
-- 🌱 I’m currently learning `Spring`, `JPA`
+- 🌱 I’m currently learning `Spring`, `JPA`, `Automated Test`, `Agile`
 - 🤔 I'm interested in `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`
 - 😄 Pronouns: Dion bot, D조교
 
