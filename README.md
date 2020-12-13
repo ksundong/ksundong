@@ -38,6 +38,7 @@
 - [gitignore cli(giig)](https://github.com/ksundong/gitignore-cli-py): python cli gitignore maker(using gitignore.io api)
 - [IaC with Terraform and AWS](https://www.inflearn.com/certificate/84291-325710-1852117) - Certificated
 - Codesquad Cocoa Java Backend TA(2020. 11. 2 ~ 2020. 11. 27)
+- [Testdome Java Spring certificate(2020.12.13)](https://app.testdome.com/cert/295206d533a0453b891946fe90ad16f7)
 
 ### Doing
 
