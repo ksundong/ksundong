@@ -22,7 +22,7 @@
 
 ### Tools
 
-- IntelliJ IDEA(2years)
+- JetBrains IDE(2years)
 - Git(2years)
 - VSCode(1year)
 - Slack(Less than 1year)
