@@ -50,7 +50,7 @@
 ### Contribution
 
 [Spring Boot Docker Guide(command not working)](https://github.com/spring-guides/gs-spring-boot-docker/pull/89)
-
+[start.spring.io(Bean Validation Description Change)](https://github.com/spring-io/start.spring.io/commit/8b0e5a226c96bf3b8d8706bd6c482057850984f4)
 
 <!--
 #### TODO
