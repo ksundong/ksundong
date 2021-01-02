@@ -27,7 +27,7 @@
 - VSCode(1year)
 - Slack(Less than 1year)
 
-### 2020
+<details><summary>2020</summary>
 
 - CodeSquad 2020 Backend Masters Course - Certificated
 - Programmers Python Algorithm Study(with Code Review) - Done
@@ -40,10 +40,14 @@
 - Codesquad Cocoa Java Backend TA(2020. 11. 2 ~ 2020. 11. 27)
 - [Testdome Java Spring certificate(2020.12.13)](https://app.testdome.com/cert/295206d533a0453b891946fe90ad16f7)
 
+</details>
+
 ### Doing
 
-- Growth Project(Project Dmart): Focus on `MSA`, `Spring Cloud`, `Spring Data JPA`, `Dockerizing`, `Real World Domain`
 - BlaDi(Side Project Team): Todo Project
+- 일상 속 사물이 알려주는 웹 API 디자인
+- 백기선님의 온라인 자바 스터디(https://github.com/whiteship/live-study)
+- 백엔드 스터디(발표형)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
