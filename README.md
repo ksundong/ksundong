@@ -27,7 +27,8 @@
 - VSCode(1year)
 - Slack(Less than 1year)
 
-<details><summary>2020</summary>
+<details>
+  <summary><strong>2020</strong></summary>
 
 - CodeSquad 2020 Backend Masters Course - Certificated
 - Programmers Python Algorithm Study(with Code Review) - Done
@@ -40,6 +41,11 @@
 - Codesquad Cocoa Java Backend TA(2020. 11. 2 ~ 2020. 11. 27)
 - [Testdome Java Spring certificate(2020.12.13)](https://app.testdome.com/cert/295206d533a0453b891946fe90ad16f7)
 
+</details>
+
+<details>
+  <summary><strong>2021</strong></summary>
+  
 </details>
 
 ### Doing
