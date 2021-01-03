@@ -40,6 +40,7 @@
 - [IaC with Terraform and AWS](https://www.inflearn.com/certificate/84291-325710-1852117) - Certificated
 - Codesquad Cocoa Java Backend TA(2020. 11. 2 ~ 2020. 11. 27)
 - [Testdome Java Spring certificate(2020.12.13)](https://app.testdome.com/cert/295206d533a0453b891946fe90ad16f7)
+- [2020년 회고](https://velog.io/@dion/2020년-회고)
 
 </details>
 
