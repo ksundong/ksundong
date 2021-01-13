@@ -47,12 +47,12 @@
 <details>
   <summary><strong>2021</strong></summary>
   
+- 일상 속 사물이 알려주는 웹 API 디자인  
 </details>
 
 ### Doing
 
-- BlaDi(Side Project Team): Todo Project
-- 일상 속 사물이 알려주는 웹 API 디자인
+- 관계형 데이터베이스 실전 입문
 - 백기선님의 온라인 자바 스터디(https://github.com/whiteship/live-study)
 - 백엔드 스터디(발표형)
 
@@ -66,7 +66,7 @@
 <!--
 #### TODO
 
-- ~~취업~~
+- BlaDi(Side Project Team): Todo Project
 - JavaScript: The Definitive Guide
 - Web Scalability for Startup Engineers
 - HTTP 완벽 가이드
