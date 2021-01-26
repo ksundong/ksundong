@@ -48,12 +48,12 @@
   <summary><strong>2021</strong></summary>
   
 - 일상 속 사물이 알려주는 웹 API 디자인  
+- 딥 워크
 </details>
 
 ### Doing
 
 - 관계형 데이터베이스 실전 입문
-- 딥 워크
 - 백기선님의 온라인 자바 스터디(https://github.com/whiteship/live-study)
 - 백엔드 스터디(발표형)
 
