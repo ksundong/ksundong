@@ -63,7 +63,7 @@
 
 ### Repositories
 
-- [Backend Interview Question ⭐️ 300+](https://github.com/ksundong/backend-interview-question)
+- [Backend Interview Question ⭐️ 400+](https://github.com/ksundong/backend-interview-question)
 
 ### Contribution
 
@@ -91,3 +91,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-trophy.vercel.app/?username=ksundong&theme=flat&no-frame=true&margin-w=30)
