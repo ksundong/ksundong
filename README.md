@@ -51,11 +51,11 @@
 - 딥 워크
 - 관계형 데이터베이스 실전 입문
 - 백엔드 스터디(발표형)
+- 백기선님의 온라인 자바 스터디(https://github.com/whiteship/live-study)
 </details>
 
 ### Doing
 
-- 백기선님의 온라인 자바 스터디(https://github.com/whiteship/live-study)
 - 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 - CodeSquad 2021 Masters Course Java Backend Reviewer
 - Next Step - TDD, Clean Code with Java 11기
