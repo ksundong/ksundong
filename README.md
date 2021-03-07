@@ -64,7 +64,7 @@
 
 ### Repositories
 
-- [Backend Interview Question ⭐️ 400+](https://github.com/ksundong/backend-interview-question)
+- [Backend Interview Question ⭐️ 500+](https://github.com/ksundong/backend-interview-question)
 
 ### Contribution
 
