@@ -59,6 +59,7 @@
 - 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 - CodeSquad 2021 Masters Course Java Backend Reviewer
 - Next Step - TDD, Clean Code with Java 11기
+- 오브젝트(조영호)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -79,7 +80,6 @@
 - Web Scalability for Startup Engineers
 - HTTP 완벽 가이드
 - Effective Java 3/E
-- 오브젝트(조영호)
 
 
 **ksundong/ksundong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
