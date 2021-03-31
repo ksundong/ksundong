@@ -57,6 +57,7 @@
 ### Doing
 
 - 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+- 인프런-실습으로 배우는 AWS 핵심 서비스 Reviewer
 - CodeSquad 2021 Masters Course Java Backend Reviewer
 - Next Step - TDD, Clean Code with Java 11기
 - 오브젝트(조영호)
