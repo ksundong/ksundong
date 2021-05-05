@@ -52,6 +52,7 @@
 - 관계형 데이터베이스 실전 입문
 - 백엔드 스터디(발표형)
 - 백기선님의 온라인 자바 스터디(https://github.com/whiteship/live-study)
+- Next Step - TDD, Clean Code with Java 11기 수료
 </details>
 
 ### Doing
@@ -59,7 +60,6 @@
 - 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 - 인프런-실습으로 배우는 AWS 핵심 서비스 Reviewer
 - CodeSquad 2021 Masters Course Java Backend Reviewer
-- Next Step - TDD, Clean Code with Java 11기
 - 오브젝트(조영호)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
