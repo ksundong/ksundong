@@ -53,6 +53,9 @@
 - 백엔드 스터디(발표형)
 - 백기선님의 온라인 자바 스터디(https://github.com/whiteship/live-study)
 - Next Step - TDD, Clean Code with Java 11기 수료
+- ElasticSearch 실무가이드(대충)
+- 기초부터 다지는 ElasticSearch 운영 노하우(대충)
+- 스프링 부트 실전활용 마스터(대충)
 </details>
 
 ### Doing
@@ -61,6 +64,7 @@
 - 인프런-실습으로 배우는 AWS 핵심 서비스 Reviewer
 - CodeSquad 2021 Masters Course Java Backend Reviewer
 - 오브젝트(조영호)
+- 카이젠 저니
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
