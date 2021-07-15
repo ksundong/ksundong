@@ -57,13 +57,13 @@
 - 기초부터 다지는 ElasticSearch 운영 노하우(대충)
 - 스프링 부트 실전활용 마스터(대충)
 - CodeSquad 2021 Masters Course Java Backend Reviewer
+- 오브젝트(조영호)
 </details>
 
 ### Doing
 
 - 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 - 인프런-실습으로 배우는 AWS 핵심 서비스 Reviewer
-- 오브젝트(조영호)
 - 카이젠 저니
 - Next Step - TDD, Clean Code with Java 12기 Reviewer
 
