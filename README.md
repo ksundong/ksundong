@@ -7,7 +7,7 @@
 
 - 📝 My Resume: <https://resume.idion.dev/>
 - 📫 How to reach me: idion@idion.dev
-- 🌱 I’m currently learning `Spring`, `JPA`, `Automated Test`, `Agile`, `Web API Design`, `Database`
+- 🌱 I’m currently learning `Spring`, `JPA`, `Automated Test`, `Agile`, `Web API Design`, `Database`, `React`, `TypeScript`
 - 🤔 I'm interested in `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`, `TDD`, `API Documentation`
 - 😄 Pronouns: Dion bot, D조교
 
@@ -58,20 +58,20 @@
 - 스프링 부트 실전활용 마스터(대충)
 - CodeSquad 2021 Masters Course Java Backend Reviewer
 - 오브젝트(조영호)
+- Next Step - TDD, Clean Code with Java 12기 Reviewer
+- 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 </details>
 
 ### Doing
 
-- 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 - 인프런-실습으로 배우는 AWS 핵심 서비스 Reviewer
 - 카이젠 저니
-- Next Step - TDD, Clean Code with Java 12기 Reviewer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Repositories
 
-- [Backend Interview Question ⭐️ 700+](https://github.com/ksundong/backend-interview-question)
+- [Backend Interview Question ⭐️ 900+](https://github.com/ksundong/backend-interview-question)
 
 ### Contribution
 
@@ -86,7 +86,6 @@
 - Web Scalability for Startup Engineers
 - HTTP 완벽 가이드
 - Effective Java 3/E
-
 
 **ksundong/ksundong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
