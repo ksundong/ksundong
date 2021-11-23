@@ -59,8 +59,9 @@
 - CodeSquad 2021 Masters Course Java Backend Reviewer
 - 오브젝트(조영호)
 - Next Step - TDD, Clean Code with Java 12기 Reviewer
-- 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 - 익스트림 프로그래밍 읽기 모임
+- 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술[김영한님]
+- 인프런-스프링 핵심 원리 - 기본편[김영한님]
 </details>
 
 ### Doing
