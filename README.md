@@ -67,12 +67,6 @@
 
 </details>
 
-### Doing
-
-- 인프런-실습으로 배우는 AWS 핵심 서비스 Reviewer
-- 카이젠 저니
-- 한 권으로 읽는 컴퓨터 구조와 프로그래밍
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Repositories
