@@ -8,6 +8,8 @@
 
 - 📝 My Resume: <https://resume.idion.dev/>
 - 📫 How to reach me: idion@idion.dev
+- 🏢 I'm currently working on ...
+- 📄 Reviewer at CodeSquad, Next-Step
 - 🌱 I’m currently learning `Spring`, `JPA`, `Automated Test`, `Agile`, `Web API Design`, `Database`, `React`, `TypeScript`
 - 🤔 I'm interested in `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`, `TDD`, `API Documentation`, `XP`
 - 😄 Pronouns: Dion bot, D조교
