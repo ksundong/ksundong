@@ -10,7 +10,7 @@
 - 📫 How to reach me: idion@idion.dev
 - 🏢 I'm currently working on @dunamu
 - 📄 Reviewer at CodeSquad, Next-Step
-- 🌱 I’m currently learning or reading: ['코틀린을 다루는 기술', 'Real MySQL', '실용주의 프로그래머', `Spring Batch`]
+- 🌱 I’m currently learning or reading: ['Real MySQL', `Spring Batch`, ']
 - 🤔 I'm interested in `OOP`, `API Documentation`, `XP`, `Agile`
 - 😄 Pronouns: Dion bot, D조교
 
