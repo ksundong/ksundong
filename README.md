@@ -82,6 +82,7 @@
 - AC2 (과정 신청 후 취소)
 - 실용주의 프로그래머
 - 초보를 위한 도커 안내서(subicura)
+- 인프라 공방(Next-Step)
 </details>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksundong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -98,11 +99,8 @@
 <!--
 #### TODO
 
-- BlaDi(Side Project Team): Todo Project
-- JavaScript: The Definitive Guide
 - Web Scalability for Startup Engineers
 - HTTP 완벽 가이드
-- Effective Java 3/E
 
 **ksundong/ksundong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
