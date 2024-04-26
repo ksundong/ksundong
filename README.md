@@ -8,7 +8,6 @@
 
 - 📝 My Resume: <https://resume.idion.dev/>
 - 📫 How to reach me: idion@idion.dev
-- 🏢 I'm currently working on @dunamu
 - 📄 Reviewer at CodeSquad, Next-Step
 - 🌱 I’m currently learning or reading: ['Real MySQL', `Spring Batch`, 'Kubernetes']
 - 🤔 I'm interested in `OOP`, `API Documentation`, `XP`, `Agile`
